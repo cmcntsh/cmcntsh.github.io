@@ -31,6 +31,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [Test Link](https://www.google.com/)
 
+[HTML Nav](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sidenav_push)
+
 [Another Link](new test file.md)
 <br><a href="new test file.html" title="Another Link">Another Link 2</a>
 
