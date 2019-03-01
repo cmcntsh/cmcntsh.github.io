@@ -40,7 +40,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 document.write("javascript");
 </script>
 
-<br><script src="script.js"></script>
+<br><script async src="script.js"></script>
 
 ### Jekyll Themes
 
