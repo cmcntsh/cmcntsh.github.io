@@ -30,6 +30,8 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Test Link](https://www.google.com/)
+[Another Link](new test file.md)
+<a href="new test file.md" title="Another Link">About Me</a>
 
 ### Jekyll Themes
 
