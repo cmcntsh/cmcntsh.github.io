@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [Test Link](https://www.google.com/)
 
 [Another Link](new test file.md)
-<br><a href="new test file.md" title="Another Link">Another Link 2</a>
+<br><a href="new test file.html" title="Another Link">Another Link 2</a>
 
 ### Jekyll Themes
 
