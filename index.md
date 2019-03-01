@@ -37,8 +37,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 <br><a href="new test file.html" title="Another Link">Another Link 2</a>
 
 <script>
-document.write("javascript")
+document.write("javascript");
 </script>
+
+<script src="script.js" type="text/javascript"></script>
 
 ### Jekyll Themes
 
